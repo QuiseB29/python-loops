@@ -26,4 +26,4 @@ while x < 10:
         pass
     else:
         print(x)
-        x += 1
+        x += 1 #Pass is a placeholder. Somewhat stalling just so if they needed to be change it can once ready.

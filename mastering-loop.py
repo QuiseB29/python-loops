@@ -30,5 +30,3 @@ for num in numbers:
 else:
  print(f"number {target_number} is not found")
  #Target number
-
-            
